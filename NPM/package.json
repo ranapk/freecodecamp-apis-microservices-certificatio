@@ -1,0 +1,23 @@
+{
+  "author": "Prateek Kumar",
+	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
+	"description": "This is awesome project",
+	"keywords": ["freecodecamp","awesome"],
+	"version": "1.2",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
